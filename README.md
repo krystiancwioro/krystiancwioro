@@ -1,10 +1,10 @@
 
-O mnie
+# O mnie
 
  Aktualnie jestem studentem PWSZ w Tarnowie, 
  Informatyka Stosowana wydziału politechnicznego,
  IV rok,
 
-Technologie
+# Technologie
 
 React-Native, NodeJs, Java, JavaScript, Spring, SQL 
