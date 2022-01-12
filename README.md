@@ -7,4 +7,4 @@
 
 # Technologie
 
-React-Native, NodeJs, Java, JavaScript, Spring, SQL 
+React-Native, Node.js, Java, JavaScript, Spring, SQL 
